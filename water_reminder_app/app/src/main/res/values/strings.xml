@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">תזכורת מים</string>
+
+    <string name="channel_name">תזכורות שתיית מים</string>
+    <string name="channel_description">התראות שמזכירות לך לשתות מים לאורך היום</string>
+
+    <string name="reminder_title">זמן לשתות מים! \uD83D\uDCA7</string>
+    <string name="reminder_text">קח/י כוס מים עכשיו לפני שממשיכים</string>
+
+    <string name="button_drank_water">שתיתי כוס מים \u2713</string>
+    <string name="button_snooze">הזכר לי שוב בעוד כמה דקות</string>
+    <string name="button_add_cup_manually">+ הוסף כוס ידנית</string>
+    <string name="button_save">שמור</string>
+    <string name="button_grant_exact_alarms">אשר הרשאת אזעקות מדויקות</string>
+    <string name="button_test_now">בדוק התראה עכשיו</string>
+
+    <string name="label_enabled">תזכורות פעילות</string>
+    <string name="label_interval">כל כמה דקות להזכיר</string>
+    <string name="label_snooze">דחייה (בדקות) בלחיצה על \"הזכר לי שוב\"</string>
+    <string name="label_active_hours">שעות פעילות (בין איזו שעה לאיזו שעה, 0-23)</string>
+    <string name="label_until">עד</string>
+    <string name="hint_start_hour">שעת התחלה</string>
+    <string name="hint_end_hour">שעת סיום</string>
+
+    <string name="cups_today_format">כוסות היום: %1$d</string>
+
+    <string name="toast_invalid_settings">יש למלא את כל השדות בערכים תקינים</string>
+    <string name="toast_reminders_on">התזכורות הופעלו</string>
+    <string name="toast_reminders_off">התזכורות כובו</string>
+    <string name="toast_no_permission_needed">אין צורך בהרשאה נוספת בגרסת האנדרואיד שלך</string>
+
+    <string name="warning_exact_alarm">כדי שהתזכורות יגיעו בדיוק בזמן, יש לאשר הרשאת "אזעקות ותזכורות מדויקות" (כפתור למטה)</string>
+</resources>
